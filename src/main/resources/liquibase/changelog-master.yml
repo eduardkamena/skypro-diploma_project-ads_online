@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: liquibase/migration/create_ads_db_Users_table.sql
